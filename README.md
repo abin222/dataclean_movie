@@ -29,9 +29,9 @@ This repository contains resources for cleaning and analyzing movie-related data
    ```bash
    git clone https://github.com/abin222/dataclean_movie
    ```
-2. Navigate to the project directory:
+2. Navigate to the main project directory:
    ```bash
-   cd <repository-directory>
+   cd dataclean_movie
    ```
 3. Open the notebook in Jupyter Notebook or JupyterLab:
    ```bash
